@@ -10,7 +10,7 @@
     Press space to reset after death
     
   
-  written by Adrian Margel, Spring 2017
+  written by Adrian Margel, Winter Early 2017
 */
 
 
