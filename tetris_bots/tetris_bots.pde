@@ -10,7 +10,7 @@
   In the case of a game over press space to reset
     
   
-  written by Adrian Margel, Spring 2017
+  written by Adrian Margel, Winter Early 2017
 */
 
 
