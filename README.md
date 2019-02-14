@@ -10,7 +10,7 @@ This repository contains two versions of the program that are otherwise identica
 
 Although the bots are not perfect I learned a lot building them, I was very surprised to find simple heuristics were able to work so well to solve such a complex problem. I've run many tests with the bots and have found that as long as they are given enough space per bot they are able to go on playing almost indefinitely. I've done various tests that lasted over 10,000 rows before I shut down the program.
 
-The code was written spring 2017
+The code was written winter early 2017
 
 ## Heuristic AI
 In a nutshell the AI works by looking for a spot to put its block that:
